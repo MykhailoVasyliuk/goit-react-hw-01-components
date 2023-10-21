@@ -14,8 +14,6 @@ export const Container = styled.section`
   }
   .stat-list {
     display: flex;
-    list-style: none;
-    padding: 0;
     .item {
       display: flex;
       flex-direction: column;

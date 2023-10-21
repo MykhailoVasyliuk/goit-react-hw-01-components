@@ -30,10 +30,8 @@ export const Container = styled.div`
   }
   .stats {
     display: flex;
-    list-style: none;
     margin: 0;
     margin-top: 25px;
-    padding: 0;
     width: 100%;
     li {
       background-color: #e8e8e8;
